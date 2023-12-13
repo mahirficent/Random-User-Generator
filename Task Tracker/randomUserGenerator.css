@@ -1,0 +1,27 @@
+img{
+    border-radius: 50%;
+    border: 5px black solid;
+    margin: 1rem;
+}
+
+.male{
+    border-color: steelblue;
+    background-color: steelblue;
+    color: aliceblue;
+}
+
+.female{
+    border-color: pink;
+    background-color: pink;
+    color: black;
+}
+
+button{
+    cursor: pointer;
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    padding: 1rem, 1.5rem;
+}
